@@ -1,3 +1,8 @@
+# A useful tutorial 
+
+https://www.kaggle.com/procode/sif-embeddings-got-69-accuracy
+
+
 # Sentence embedding using Smooth Inverse Frequency weighting scheme
 
 This is the implementation of SIF prposed in "A Simple but Tough-to-Beat Baseline for Sentence Embeddings" https://openreview.net/forum?id=SyK00v5xx.
